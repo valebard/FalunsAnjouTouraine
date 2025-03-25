@@ -1,0 +1,17 @@
+BODY { background-image: url(img/fdpage.jpg);}
+td {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 10pt; color: Black; background-color: transparent; text-align: justify;}
+.suiv, .suiv A:active, .suiv A:link, .suiv A:visited {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 10pt; color: #D04D53; background-color: transparent; text-decoration: none;}
+.suiv A:hover {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 10pt; color: #D04D53; background-color: transparent; text-decoration: underline;}
+.cadplan {border: 1px; border-style: dotted; border-color: #ACACAC; padding: 2px;}
+.planht {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 8pt; color: #ACACAC; background-color: transparent; text-decoration: none;}
+.planhtl, .planhtl A:active, .planhtl A:link, .planhtl A:visited {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 8pt; color: #D08689; background-color: transparent; text-decoration: none;}
+.planhtl A:hover {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 8pt; color: #D04D53; background-color: transparent; text-decoration: underline;}
+.plan, .plan A:active, .plan A:link, .plan A:visited{font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 10pt; color: #D04D53; background-color: transparent; text-decoration: none;}
+.plan A:hover {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 10pt; color: #D04D53; background-color: transparent; text-decoration: underline;}
+.titplan {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 12pt; color: #789275; background-color: transparent; font-weight: bold; text-decoration: underline;}
+.copy, .copy A:active, .copy A:link, .copy A:visited { font-family: Arial, Helvetica, sans-serif; background-color: transparent; color: #ffffff; font-size: 9pt; text-decoration: none;}
+.copy A:hover { font-family: Arial, Helvetica, sans-serif; background-color: transparent; color: #ffffff; font-size: 9pt; text-decoration: underline;}
+.imgtit { }
+.tit {font-size: 12pt; color: #789275; background-color: transparent; font-weight: bold;}
+.bld { font-weight: bold;}
+.sstit { font-weight: bold; text-decoration: underline;}

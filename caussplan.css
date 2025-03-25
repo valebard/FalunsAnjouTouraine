@@ -1,0 +1,16 @@
+BODY { background-image: url(img/fdpage.jpg);}
+.suiv, .suiv A:active, .suiv A:link, .suiv A:visited {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 10pt; color: #D04D53; background-color: transparent; text-decoration: none;}
+.suiv A:hover {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 10pt; color: #D04D53; background-color: transparent; text-decoration: underline;}
+.cadplan {border: 1px; border-style: dotted; border-color: #ACACAC; padding: 2px;}
+.planht {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 8pt; color: #ACACAC; background-color: transparent; text-decoration: none;}
+.planhtl, .planhtl A:active, .planhtl A:link, .planhtl A:visited {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 8pt; color: #D08689; background-color: transparent; text-decoration: none;}
+.planhtl A:hover {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 8pt; color: #D04D53; background-color: transparent; text-decoration: underline;}
+.plan, .plan A:active, .plan A:link, .plan A:visited {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 10pt; color: #D04D53; background-color: transparent; text-decoration: none;}
+.plan A:hover {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 10pt; color: #D04D53; background-color: transparent; text-decoration: underline;}
+.plan1, .plan1 A:active, .plan1 A:link, .plan1 A:visited{font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 12pt; color: #789275; background-color: transparent; font-weight: bold; text-decoration: none;}
+.plan1 A:hover {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 12pt; color: #789275; background-color: transparent; text-decoration: underline;}
+.plan2, .plan2 A:active, .plan2 A:link, .plan2 A:visited{font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 10pt; color: #000000; background-color: transparent; font-weight: bold; text-decoration: none;}
+.plan2 A:hover {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 10pt; color: #000000; background-color: transparent; text-decoration: underline;}
+.plan3, .plan3 A:active, .plan3 A:link, .plan3 A:visited{font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 10pt; color: #828282; background-color: transparent; font-weight: bold; text-decoration: none;}
+.plan3 A:hover {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 10pt; color: #828282; background-color: transparent; text-decoration: underline;}
+.cadplan2 {border: 2px; border-color: #E2E2E2; background-color: transparent; border-style: dashed; padding: 10px; text-align: left;}

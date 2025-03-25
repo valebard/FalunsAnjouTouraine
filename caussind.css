@@ -1,0 +1,8 @@
+BODY { background-image: url(img/fdpage.jpg); font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;}
+td {font-size: 13px; color: Black; background-color: transparent; text-align: justify;}
+.plan, .plan A:active, .plan A:link, .plan A:visited{font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 13px; color: #D04D53; background-color: transparent; text-decoration: none;}
+.plan A:hover {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 13px; color: #D04D53; background-color: transparent; text-decoration: underline;}
+.txtlink, .txtlink A:active, .txtlink A:link, .txtlink A:visited{font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 13px; color: #000000; background-color: transparent; text-decoration: none;}
+.txtlink A:hover {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 13px; color: #000000; background-color: transparent; text-decoration: none;}
+.copy, .copy A:active, .copy A:link, .copy A:visited { font-family: Arial, Helvetica, sans-serif; background-color: transparent; color: #ffffff; font-size: 9pt; text-decoration: none; text-align: center;}
+.copy A:hover { font-family: Arial, Helvetica, sans-serif; background-color: transparent; color: #ffffff; font-size: 9pt; text-decoration: underline; text-align: center;}

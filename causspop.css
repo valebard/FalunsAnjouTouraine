@@ -1,0 +1,5 @@
+BODY { background-color: #CDCDCD; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; margin-top: 0px;}
+.tab {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 9pt; color: Black; background-color: White; text-align: center;}
+.tabtit {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 9pt; color: White; background-color: #98B995; font-weight: bold; text-align: center;}
+.suiv, .suiv A:active, .suiv A:link, .suiv A:visited {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 10pt; color: #D04D53; background-color: White; text-decoration: none;}
+.suiv A:hover {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 10pt; color: #D04D53; background-color: transparent; text-decoration: underline;}
